@@ -1,0 +1,31 @@
+# Secrets and credentials
+.env
+credentials.json
+token.json
+
+# Local database
+jobs.csv
+
+# Python standard
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
