@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1kTJ5tMhGXbCjq6Wwqgc-Y7A3wOo2QHef/view?usp=sharing
+
 # JobTrackr AI
 
 An automated intelligent Gmail bot that continuously scans your inbox for job-related emails (applications, interviews, rejections), processes them using Google's Gemini 1.5 Flash LLM, and seamlessly updates a local database (`jobs.csv`).
